@@ -36,5 +36,5 @@
    7. e.target.innerHTML =>that is   retrieving content inside the specific button that was clicked.
    8. e.target.innerHTML === "AC"  string variable sets empty string and  it is used to clear or reset the current input or expression.
    9. else if (e.target.innerHTML === "DEL")   to clear the entire string when the "DEL" button is clicked.
-   10.   string += e.target.innerHTML; this appends the content of the clicked button to the existing input expression stored in the string variable.
-   11.   results get  displayed  in the input element.
+   10. string += e.target.innerHTML; this appends the content of the clicked button to the existing input expression stored in the string variable.
+   11.   And results get  displayed  in the input element.
